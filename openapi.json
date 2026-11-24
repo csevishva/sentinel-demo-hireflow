@@ -2,7 +2,7 @@
   "openapi": "3.0.3",
   "info": {
     "title": "HireFlow API",
-    "version": "1.1.0",
+    "version": "2.0.0",
     "description": "Fictional hireflow demonstration. No real customer data."
   },
   "paths": {
@@ -67,7 +67,7 @@
           }
         },
         "responses": {
-          "201": {
+          "202": {
             "description": "Successful response",
             "content": {
               "application/json": {
